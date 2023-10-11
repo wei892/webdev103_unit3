@@ -45,3 +45,24 @@ text-transform: uppercase;
 touch-action: manipulation;
 width: 80px;
 }
+
+.categoryBtn{
+  background-color: white;
+  border: solid;
+  border-width: 3px;
+  border-color: rgb(3, 7, 89);
+  border-radius: 0.1rem;
+  border-radius: 16px;
+  box-sizing: border-box;
+  color:  rgb(3, 7, 89);
+  cursor: pointer;
+  padding: 15px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  width: 120px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  justify-self: center;
+}
